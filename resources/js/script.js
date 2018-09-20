@@ -82,14 +82,8 @@ $(document).ready(function() {
     } else {
       icon.addClass('icon-menu').attr("name", "menu");;
       icon.removeClass('icon ion-md-close');
-
     }
-
-
-
   }); 
-
-
 });
 
 
